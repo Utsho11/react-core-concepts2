@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.product{
+  text-align: center;
+  background-color: antiquewhite;
+  border: 5px solid burlywood;
+  padding: 15px;
+  margin: 15px 200px;
+  border-radius: 50%;
+}
